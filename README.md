@@ -20,7 +20,7 @@ python csv_date_converter.py
 
 The converted dates will be printed on the standard output.
 
-Functions
-fn: Reads a CSV file and returns its content as a nested list of strings.
-fn1: Converts dates from "%d/%m/%Y" format to "%d/%m/%Y" format + 2 days and returns them as a simple string.
+### Functions
+fn: Reads a CSV file and returns its content as a nested list of strings.  
+fn1: Converts dates from "%d/%m/%Y" format to "%d/%m/%Y" format + 2 days and returns them as a simple string.  
 main: Main function that reads a CSV file, converts its dates into new string formats, and returns them as a list of strings.
